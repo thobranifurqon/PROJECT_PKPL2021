@@ -6,6 +6,7 @@ Tugas ini adalah syarat untuk memenuhi nilai UAS dari mata kuliah Rekayasa Kebut
   # menu utama pada aplikasi
   ![menu_utama1](https://user-images.githubusercontent.com/48081025/106417386-ea104300-648e-11eb-90f1-8bac67fed9e4.jpg)
   # Peta Persebaran
+  ![Peta+Persebaran](https://user-images.githubusercontent.com/48081025/106417672-9520fc80-648f-11eb-861c-260c7f7e1141.jpg)
   
 
   
