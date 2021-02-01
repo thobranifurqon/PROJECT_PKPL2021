@@ -4,5 +4,6 @@ Tugas ini adalah syarat untuk memenuhi nilai UAS dari mata kuliah Rekayasa Kebut
 
 # pembahasan Aplikasi
   # menu utama pada aplikasi
-  ![menu](https://user-images.githubusercontent.com/48081025/106416623-cf3ccf00-648c-11eb-874b-0c9f98389f5a.jpg)
+![menu_utama](https://user-images.githubusercontent.com/48081025/106417231-79692680-648e-11eb-997c-6c53de3d9e20.jpg)
+
   
