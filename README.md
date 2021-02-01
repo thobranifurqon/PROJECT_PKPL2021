@@ -8,6 +8,7 @@ Tugas ini adalah syarat untuk memenuhi nilai UAS dari mata kuliah Rekayasa Kebut
   # Peta Persebaran
   ![Peta_Persebaran1](https://user-images.githubusercontent.com/48081025/106418442-4a07e900-6491-11eb-81d3-e8602c75e35a.jpg)
   # Press Release
+  ![Press_Release1](https://user-images.githubusercontent.com/48081025/106421144-29429200-6497-11eb-9d99-ff681302fc2e.jpg)
   # Germas
   # Self Check Up
   
