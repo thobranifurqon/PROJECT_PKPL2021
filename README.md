@@ -1,6 +1,4 @@
 # covid19_apps
 
-Tugas ini adalah syarat untuk memenuhi nilai UAS dari mata kuliah Rekayasa Kebutuhan Sistem
-Baik disini saya membuat sebuah aplikasi pusat informasi kasus corona provinsi nusa tenggara barat 
-Dimana saya menggunakan salah satu framework dari google yaitu flutter
+Tugas ini adalah syarat untuk memenuhi nilai UAS dari mata kuliah Rekayasa Kebutuhan Sistem. Disini saya membuat sebuah aplikasi pusat informasi kasus corona provinsi Nusa Tenggara Barat yang bernama COVI-19 Apps. Aplkasi ini saya kembangakn menggunakan salah satu framework dari Google yaitu FLutter. mengacu dengan workflow, wireframe dan kebutuhan sistem agak sedikit berbeda namun tetap dalam ranah pengembangan Aplikasi Mobile saya berharap tidak memengaruh dari penilaian dari Aplikasi ini
 
