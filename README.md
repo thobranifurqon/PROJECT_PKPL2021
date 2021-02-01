@@ -5,7 +5,7 @@ Tugas ini adalah syarat untuk memenuhi nilai UAS dari mata kuliah Rekayasa Kebut
 # pembahasan Aplikasi
   # menu utama pada aplikasi
   # Peta Persebaran
-  ![Peta_Persebaran](https://user-images.githubusercontent.com/48081025/106418294-ec739c80-6490-11eb-8863-4ef82424eae6.jpg)
+  ![Peta_Persebaran1](https://user-images.githubusercontent.com/48081025/106418442-4a07e900-6491-11eb-81d3-e8602c75e35a.jpg)
   # Press Release
   # Germas
   # Self Check Up
