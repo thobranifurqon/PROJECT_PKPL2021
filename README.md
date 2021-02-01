@@ -10,7 +10,10 @@ Tugas ini adalah syarat untuk memenuhi nilai UAS dari mata kuliah Rekayasa Kebut
   # Press Release
   ![Press_Release1](https://user-images.githubusercontent.com/48081025/106421144-29429200-6497-11eb-9d99-ff681302fc2e.jpg)
   # Germas
+  ![germas1](https://user-images.githubusercontent.com/48081025/106421467-b8e84080-6497-11eb-897b-ccf48eb52351.jpg)
   # Self Check Up
+  ![self-check-up1](https://user-images.githubusercontent.com/48081025/106421535-d9b09600-6497-11eb-9146-910960702e95.jpg)
+
   
   
 
