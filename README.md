@@ -2,7 +2,7 @@
 
 Tugas ini adalah syarat untuk memenuhi nilai UAS dari mata kuliah Rekayasa Kebutuhan Sistem. Disini saya membuat sebuah Aplikasi Pusat Informasi Kasus Corona provinsi Nusa Tenggara Barat yang bernama COVID-19 Apps. Aplkasi ini saya kembangkan menggunakan salah satu framework dari Google yaitu FLutter. mengacu dengan workflow, wireframe dan kebutuhan sistem agak sedikit berbeda namun tetap dalam ranah pengembangan Aplikasi Mobile saya berharap tidak memengaruh dari penilaian dari Aplikasi ini
 
-# pembahasan Aplikasi
+# [1] pembahasan Aplikasi
 # menu utama 
 Menu utama pada pada Aplikasi Pusat Informasi Kasus Corona Provinsi Nusa Tenggara Barat
 
@@ -27,7 +27,7 @@ Self Check Up pada fitur ini saya menggunakan WebView. Fitur ini memudahkan kita
 # Penutup
 Mungkin sekian dari penjelasan dari Aplikasi Pusat Informasi Kasus Corona Provinsi Nusa Tenggara Barat jikalau ada hal yang ingin ditanyakan dan ingin kontribusi dari pengembangan Aplikasi ini saya sangat harapkan
 
-# Link Kebutuhan Sistem, Wireframe, Workflow
+# [2] Link Kebutuhan Sistem, Wireframe, Workflow
 https://drive.google.com/drive/u/0/folders/1UuX4n-F4nbNLrwQhuasiR9V2z7XkP4Tr
 
   
