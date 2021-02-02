@@ -27,6 +27,9 @@ Self Check Up pada fitur ini saya menggunakan WebView. Fitur ini memudahkan kita
 # Penutup
 Mungkin sekian dari penjelasan dari Aplikasi Pusat Informasi Kasus Corona Provinsi Nusa Tenggara Barat jikalau ada hal yang ingin ditanyakan dan ingin kontribusi dari pengembangan Aplikasi ini saya sangat harapkan
 
+# Link Kebutuhan Sistem, Wireframe, Workflow
+https://drive.google.com/drive/u/0/folders/1UuX4n-F4nbNLrwQhuasiR9V2z7XkP4Tr
+
   
   
 
